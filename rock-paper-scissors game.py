@@ -1,3 +1,4 @@
+#code by itsme
 import random
 
 def game():
